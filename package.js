@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Npm.depends({
-  'prerender-node': '2.2.2',
+  'prerender-node': '3.1.1',
 });
 
 Package.onUse(function packageConfiguration(api) {
